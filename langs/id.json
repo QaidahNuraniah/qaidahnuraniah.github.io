@@ -6,7 +6,7 @@
   "* Spelling mode unavailable for this page": "* Mode ejaan tidak tersedia untuk halaman ini",
   "Audio Playback Speed": "Kecepatan Suara Audio",
   "Arabic Text Scale Size": "Skala Ukuran Teks Arab",
-  "Reset 100%": "Reset 100%",
+  "Reset 100%": "Reset 100",
   "Display Theme": "Tema Tampilan",
   "Dark AI Mode": "Dark AI Mode",
   "Light Mode": "Light Mode",
@@ -24,5 +24,13 @@
   "Play Full Page": "Play Halaman Utuh",
   "Pause": "Pause",
   "Stop": "Stop",
-  "Settings & Scale": "Pengaturan & Skala"
+  "Settings & Scale": "Pengaturan & Skala",
+  "Install Application": "Pasang Aplikasi",
+  "Install syifarahmat.id": "Pasang Qaidah Nuraniah",
+  "Install this application on your device for fast, offline access.": "Pasang aplikasi ini di perangkat Anda untuk akses cepat dan offline.",
+  "Install Now": "Pasang Sekarang",
+  "How to Install Manually": "Cara Pasang Manual",
+  "Tap the Share button in Safari, then select 'Add to Home Screen'.": "Ketuk tombol Berbagi di Safari, lalu pilih 'Tambahkan ke Layar Utama'.",
+  "Click the Install button in your browser's address bar or menu.": "Klik tombol Install di bilah alamat atau menu browser Anda.",
+  "Application is Already Installed!": "Aplikasi Sudah Terpasang!"
 }
