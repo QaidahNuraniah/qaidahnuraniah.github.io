@@ -26,11 +26,16 @@
   "Stop": "Stop",
   "Settings & Scale": "Settings & Scale",
   "Install Application": "Install Application",
-  "Install syifarahmat.id": "Install Qaidah Nuraniah",
+  "Install Qaidah Nuraniah": "Install Qaidah Nuraniah",
   "Install this application on your device for fast, offline access.": "Install this application on your device for fast, offline access.",
   "Install Now": "Install Now",
   "How to Install Manually": "How to Install Manually",
   "Tap the Share button in Safari, then select 'Add to Home Screen'.": "Tap the Share button in Safari, then select 'Add to Home Screen'.",
   "Click the Install button in your browser's address bar or menu.": "Click the Install button in your browser's address bar or menu.",
-  "Application is Already Installed!": "Application is Already Installed!"
+  "Application is Already Installed!": "Application is Already Installed!",
+  "Failed to load lessons list": "Failed to load lessons list",
+  "Loading Page SVG...": "Loading Page SVG...",
+  "Extracting audio data...": "Extracting audio data...",
+  "Failed to load {file}": "Failed to load {file}",
+  "meta.json not found": "meta.json not found"
 }
