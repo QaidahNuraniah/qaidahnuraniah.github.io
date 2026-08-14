@@ -1,0 +1,648 @@
+{
+    "data": [
+        {
+            "id": 124,
+            "name": "الدرس الأول",
+            "nameAr": "الدرس الأول",
+            "nameFr": "Leçon 1",
+            "nameEn": "Lesson 1",
+            "isPublished": true,
+            "index": 1,
+            "isFree": true,
+            "createdAt": "2021-05-23T06:33:29.000Z",
+            "updatedAt": "2025-02-24T13:14:18.000Z",
+            "pages": [
+                {
+                    "id": 1048,
+                    "hasSpellingReading": false,
+                    "filePath": "https://api.qaidahnuraniah.com/page/resource/page-1740402857880.zip",
+                    "resourceFilePath": "https://api.qaidahnuraniah.com/page/resource/resource-1740402858354.html",
+                    "index": 6,
+                    "createdAt": "2021-06-06T12:10:40.000Z",
+                    "updatedAt": "2025-02-24T13:14:18.000Z",
+                    "availableReciters": [
+                        "Hafs"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 125,
+            "name": "الدرس الثاني",
+            "nameAr": "الدرس الثاني",
+            "nameFr": "Leçon 2",
+            "nameEn": "Lesson 2",
+            "isPublished": true,
+            "index": 2,
+            "isFree": true,
+            "createdAt": "2021-06-10T08:44:07.000Z",
+            "updatedAt": "2025-02-17T14:15:18.000Z",
+            "pages": [
+                {
+                    "id": 1054,
+                    "hasSpellingReading": false,
+                    "filePath": "https://api.qaidahnuraniah.com/page/resource/page-1739801597726.zip",
+                    "resourceFilePath": "https://api.qaidahnuraniah.com/page/resource/resource-1739801598388.html",
+                    "index": 7,
+                    "createdAt": "2021-07-26T04:12:10.000Z",
+                    "updatedAt": "2025-02-17T14:13:18.000Z",
+                    "availableReciters": [
+                        "Hafs",
+                        "Warsh",
+                        "Qanoun"
+                    ]
+                },
+                {
+                    "id": 1066,
+                    "hasSpellingReading": false,
+                    "filePath": "https://api.qaidahnuraniah.com/page/resource/page-1739801718100.zip",
+                    "resourceFilePath": "https://api.qaidahnuraniah.com/page/resource/resource-1739801718739.html",
+                    "index": 8,
+                    "createdAt": "2021-08-16T10:58:35.000Z",
+                    "updatedAt": "2025-02-17T14:15:18.000Z",
+                    "availableReciters": [
+                        "Hafs",
+                        "Warsh",
+                        "Qanoun"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 126,
+            "name": "الدرس الثالث",
+            "nameAr": "الدرس الثالث",
+            "nameFr": "Leçon 3",
+            "nameEn": "Lesson 3",
+            "isPublished": true,
+            "index": 3,
+            "isFree": true,
+            "createdAt": "2021-06-10T08:48:16.000Z",
+            "updatedAt": "2025-02-09T07:46:26.000Z",
+            "pages": [
+                {
+                    "id": 1120,
+                    "hasSpellingReading": false,
+                    "filePath": "https://api.qaidahnuraniah.com/page/resource/page-1686827568887.zip",
+                    "resourceFilePath": "https://api.qaidahnuraniah.com/page/resource/resource-1686827569436.html",
+                    "index": 9,
+                    "createdAt": "2021-11-02T09:31:42.000Z",
+                    "updatedAt": "2023-06-15T11:12:49.000Z",
+                    "availableReciters": [
+                        "Hafs"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 127,
+            "name": "الدرس الرابع",
+            "nameAr": "الدرس الرابع",
+            "nameFr": "Leçon 4",
+            "nameEn": "Lesson 4",
+            "isPublished": true,
+            "index": 4,
+            "isFree": true,
+            "createdAt": "2021-06-10T08:49:09.000Z",
+            "updatedAt": "2025-01-27T17:29:46.000Z",
+            "pages": [
+                {
+                    "id": 1081,
+                    "hasSpellingReading": true,
+                    "filePath": "https://api.qaidahnuraniah.com/page/resource/page-1661615802056.zip",
+                    "resourceFilePath": "https://api.qaidahnuraniah.com/page/resource/resource-1661615838433.html",
+                    "index": 10,
+                    "createdAt": "2021-08-20T20:29:34.000Z",
+                    "updatedAt": "2022-08-27T15:57:19.000Z",
+                    "availableReciters": [
+                        "Hafs",
+                        "Warsh",
+                        "Qanoun"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 128,
+            "name": "الدرس الخامس",
+            "nameAr": "الدرس الخامس",
+            "nameFr": "Leçon 5",
+            "nameEn": "Lesson 5",
+            "isPublished": true,
+            "index": 5,
+            "isFree": false,
+            "createdAt": "2021-06-10T08:49:40.000Z",
+            "updatedAt": "2022-08-28T13:59:02.000Z",
+            "pages": [
+                {
+                    "id": 1086,
+                    "hasSpellingReading": true,
+                    "filePath": "https://api.qaidahnuraniah.com/page/resource/page-1661694883329.zip",
+                    "resourceFilePath": "https://api.qaidahnuraniah.com/page/resource/resource-1661695140760.html",
+                    "index": 11,
+                    "createdAt": "2021-08-29T21:18:04.000Z",
+                    "updatedAt": "2022-08-28T13:59:02.000Z",
+                    "availableReciters": [
+                        "Hafs",
+                        "Warsh",
+                        "Qanoun"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 119,
+            "name": "الدرس السادس",
+            "nameAr": "الدرس السادس",
+            "nameFr": "Leçon 6",
+            "nameEn": "Lesson 6",
+            "isPublished": true,
+            "index": 6,
+            "isFree": true,
+            "createdAt": "2021-04-27T20:50:19.000Z",
+            "updatedAt": "2022-08-28T14:09:55.000Z",
+            "pages": [
+                {
+                    "id": 1122,
+                    "hasSpellingReading": true,
+                    "filePath": "https://api.qaidahnuraniah.com/page/resource/page-1661695419750.zip",
+                    "resourceFilePath": "https://api.qaidahnuraniah.com/page/resource/resource-1661695793600.html",
+                    "index": 12,
+                    "createdAt": "2021-11-11T09:16:27.000Z",
+                    "updatedAt": "2022-08-28T14:09:55.000Z",
+                    "availableReciters": [
+                        "Hafs",
+                        "Warsh",
+                        "Qanoun"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 121,
+            "name": "الدرس السابع",
+            "nameAr": "الدرس السابع",
+            "nameFr": "Leçon 7",
+            "nameEn": "Lesson 7",
+            "isPublished": true,
+            "index": 7,
+            "isFree": true,
+            "createdAt": "2021-05-07T05:20:56.000Z",
+            "updatedAt": "2022-08-28T13:45:08.000Z",
+            "pages": [
+                {
+                    "id": 1119,
+                    "hasSpellingReading": true,
+                    "filePath": "https://api.qaidahnuraniah.com/page/resource/page-1661694208538.zip",
+                    "resourceFilePath": "https://api.qaidahnuraniah.com/page/resource/resource-1661694307045.html",
+                    "index": 13,
+                    "createdAt": "2021-10-31T09:16:20.000Z",
+                    "updatedAt": "2022-08-28T13:45:08.000Z",
+                    "availableReciters": [
+                        "Hafs",
+                        "Warsh",
+                        "Qanoun"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 129,
+            "name": "الدرس الثامن",
+            "nameAr": "الدرس الثامن",
+            "nameFr": "Leçon 8",
+            "nameEn": "Lesson 8",
+            "isPublished": true,
+            "index": 8,
+            "isFree": false,
+            "createdAt": "2021-06-10T08:49:57.000Z",
+            "updatedAt": "2025-02-17T14:22:35.000Z",
+            "pages": [
+                {
+                    "id": 1084,
+                    "hasSpellingReading": true,
+                    "filePath": "https://api.qaidahnuraniah.com/page/resource/page-1739801853451.zip",
+                    "resourceFilePath": "https://api.qaidahnuraniah.com/page/resource/resource-1739801854657.html",
+                    "index": 14,
+                    "createdAt": "2021-08-28T06:50:59.000Z",
+                    "updatedAt": "2025-02-17T14:17:34.000Z",
+                    "availableReciters": [
+                        "Hafs",
+                        "Warsh",
+                        "Qanoun"
+                    ]
+                },
+                {
+                    "id": 1089,
+                    "hasSpellingReading": true,
+                    "filePath": "https://api.qaidahnuraniah.com/page/resource/page-1739802153749.zip",
+                    "resourceFilePath": "https://api.qaidahnuraniah.com/page/resource/resource-1739802154922.html",
+                    "index": 15,
+                    "createdAt": "2021-09-02T09:03:10.000Z",
+                    "updatedAt": "2025-02-17T14:22:35.000Z",
+                    "availableReciters": [
+                        "Hafs",
+                        "Warsh",
+                        "Qanoun"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130,
+            "name": "الدرس التاسع",
+            "nameAr": "الدرس التاسع",
+            "nameFr": "Leçon 9",
+            "nameEn": "Lesson 9",
+            "isPublished": true,
+            "index": 9,
+            "isFree": false,
+            "createdAt": "2021-06-10T08:51:20.000Z",
+            "updatedAt": "2025-02-24T13:45:27.000Z",
+            "pages": [
+                {
+                    "id": 1075,
+                    "hasSpellingReading": true,
+                    "filePath": "https://api.qaidahnuraniah.com/page/resource/page-1740404725892.zip",
+                    "resourceFilePath": "https://api.qaidahnuraniah.com/page/resource/resource-1740404727122.html",
+                    "index": 16,
+                    "createdAt": "2021-08-18T10:40:41.000Z",
+                    "updatedAt": "2025-02-24T13:45:27.000Z",
+                    "availableReciters": [
+                        "Hafs"
+                    ]
+                },
+                {
+                    "id": 1129,
+                    "hasSpellingReading": true,
+                    "filePath": "https://api.qaidahnuraniah.com/page/resource/page-1661799161913.zip",
+                    "resourceFilePath": "https://api.qaidahnuraniah.com/page/resource/resource-1661799162607.html",
+                    "index": 16,
+                    "createdAt": "2022-03-08T08:59:55.000Z",
+                    "updatedAt": "2022-08-29T18:52:42.000Z",
+                    "availableReciters": [
+                        "Qanoun"
+                    ]
+                },
+                {
+                    "id": 1078,
+                    "hasSpellingReading": true,
+                    "filePath": "https://api.qaidahnuraniah.com/page/resource/page-1646736423052.zip",
+                    "resourceFilePath": "https://api.qaidahnuraniah.com/page/resource/resource-1646736426551.html",
+                    "index": 17,
+                    "createdAt": "2021-08-19T10:44:57.000Z",
+                    "updatedAt": "2022-03-08T10:47:06.000Z",
+                    "availableReciters": [
+                        "Hafs"
+                    ]
+                },
+                {
+                    "id": 1130,
+                    "hasSpellingReading": true,
+                    "filePath": "https://api.qaidahnuraniah.com/page/resource/page-1660071397001.zip",
+                    "resourceFilePath": "https://api.qaidahnuraniah.com/page/resource/resource-1660071400586.html",
+                    "index": 17,
+                    "createdAt": "2022-03-15T19:09:52.000Z",
+                    "updatedAt": "2022-08-09T18:56:40.000Z",
+                    "availableReciters": [
+                        "Warsh"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 131,
+            "name": "الدرس العاشر",
+            "nameAr": "الدرس العاشر",
+            "nameFr": "Leçon 10",
+            "nameEn": "Lesson 10",
+            "isPublished": true,
+            "index": 10,
+            "isFree": false,
+            "createdAt": "2021-06-10T08:51:41.000Z",
+            "updatedAt": "2025-02-17T14:23:08.000Z",
+            "pages": [
+                {
+                    "id": 1090,
+                    "hasSpellingReading": true,
+                    "filePath": "https://api.qaidahnuraniah.com/page/resource/page-1739802187775.zip",
+                    "resourceFilePath": "https://api.qaidahnuraniah.com/page/resource/resource-1739802188852.html",
+                    "index": 18,
+                    "createdAt": "2021-09-06T07:54:45.000Z",
+                    "updatedAt": "2025-02-17T14:23:08.000Z",
+                    "availableReciters": [
+                        "Hafs",
+                        "Warsh",
+                        "Qanoun"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "الدرس الحادي عشر",
+            "nameAr": "الدرس الحادي عشر",
+            "nameFr": "Leçon 11",
+            "nameEn": "Lesson 11",
+            "isPublished": true,
+            "index": 11,
+            "isFree": false,
+            "createdAt": "2021-01-15T00:00:00.000Z",
+            "updatedAt": "2022-04-05T19:10:05.000Z",
+            "pages": [
+                {
+                    "id": 1123,
+                    "hasSpellingReading": true,
+                    "filePath": "https://api.qaidahnuraniah.com/page/resource/page-1646736755726.zip",
+                    "resourceFilePath": "https://api.qaidahnuraniah.com/page/resource/resource-1646736758327.html",
+                    "index": 19,
+                    "createdAt": "2021-11-11T09:28:58.000Z",
+                    "updatedAt": "2022-03-08T10:52:38.000Z",
+                    "availableReciters": [
+                        "Hafs"
+                    ]
+                },
+                {
+                    "id": 1058,
+                    "hasSpellingReading": true,
+                    "filePath": "https://api.qaidahnuraniah.com/page/resource/page-1646737650370.zip",
+                    "resourceFilePath": "https://api.qaidahnuraniah.com/page/resource/resource-1646737653275.html",
+                    "index": 20,
+                    "createdAt": "2021-07-29T13:00:03.000Z",
+                    "updatedAt": "2022-03-08T11:07:33.000Z",
+                    "availableReciters": [
+                        "Hafs"
+                    ]
+                },
+                {
+                    "id": 1132,
+                    "hasSpellingReading": true,
+                    "filePath": "https://api.qaidahnuraniah.com/page/resource/page-1647372925232.zip",
+                    "resourceFilePath": "https://api.qaidahnuraniah.com/page/resource/resource-1647372928074.html",
+                    "index": 20,
+                    "createdAt": "2022-03-15T19:18:38.000Z",
+                    "updatedAt": "2022-03-15T19:35:28.000Z",
+                    "availableReciters": [
+                        "Warsh"
+                    ]
+                },
+                {
+                    "id": 1136,
+                    "hasSpellingReading": true,
+                    "filePath": "https://api.qaidahnuraniah.com/page/resource/page-1647670390947.zip",
+                    "resourceFilePath": "https://api.qaidahnuraniah.com/page/resource/resource-1647670393790.html",
+                    "index": 21,
+                    "createdAt": "2022-03-19T06:13:13.000Z",
+                    "updatedAt": "2022-03-19T06:13:13.000Z",
+                    "availableReciters": [
+                        "Warsh"
+                    ]
+                },
+                {
+                    "id": 1124,
+                    "hasSpellingReading": true,
+                    "filePath": "https://api.qaidahnuraniah.com/page/resource/page-1646555800306.zip",
+                    "resourceFilePath": "https://api.qaidahnuraniah.com/page/resource/resource-1646555803285.html",
+                    "index": 21,
+                    "createdAt": "2021-11-14T09:24:33.000Z",
+                    "updatedAt": "2022-03-06T08:36:43.000Z",
+                    "availableReciters": [
+                        "Hafs"
+                    ]
+                },
+                {
+                    "id": 1128,
+                    "hasSpellingReading": true,
+                    "filePath": "https://api.qaidahnuraniah.com/page/resource/page-1646556089017.zip",
+                    "resourceFilePath": "https://api.qaidahnuraniah.com/page/resource/resource-1646556092099.html",
+                    "index": 22,
+                    "createdAt": "2021-11-30T20:50:45.000Z",
+                    "updatedAt": "2022-03-06T08:41:32.000Z",
+                    "availableReciters": [
+                        "Hafs"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132,
+            "name": "الدرس الثاني عشر",
+            "nameAr": "الدرس الثاني عشر",
+            "nameFr": "Leçon 12",
+            "nameEn": "Lesson 12",
+            "isPublished": true,
+            "index": 12,
+            "isFree": false,
+            "createdAt": "2021-06-10T08:52:03.000Z",
+            "updatedAt": "2025-02-17T14:23:46.000Z",
+            "pages": [
+                {
+                    "id": 1128,
+                    "hasSpellingReading": true,
+                    "filePath": "https://api.qaidahnuraniah.com/page/resource/page-1646556089017.zip",
+                    "resourceFilePath": "https://api.qaidahnuraniah.com/page/resource/resource-1646556092099.html",
+                    "index": 22,
+                    "createdAt": "2021-11-30T20:50:45.000Z",
+                    "updatedAt": "2022-03-06T08:41:32.000Z",
+                    "availableReciters": [
+                        "Hafs"
+                    ]
+                },
+                {
+                    "id": 1087,
+                    "hasSpellingReading": true,
+                    "filePath": "https://api.qaidahnuraniah.com/page/resource/page-1739802225190.zip",
+                    "resourceFilePath": "https://api.qaidahnuraniah.com/page/resource/resource-1739802226589.html",
+                    "index": 23,
+                    "createdAt": "2021-08-30T20:38:01.000Z",
+                    "updatedAt": "2025-02-17T14:23:46.000Z",
+                    "availableReciters": [
+                        "Hafs",
+                        "Warsh",
+                        "Qanoun"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 133,
+            "name": "الدرس الثالث عشر",
+            "nameAr": "الدرس الثالث عشر",
+            "nameFr": "Leçon 13",
+            "nameEn": "Lesson 13",
+            "isPublished": true,
+            "index": 13,
+            "isFree": false,
+            "createdAt": "2021-06-10T08:53:02.000Z",
+            "updatedAt": "2025-02-17T14:23:46.000Z",
+            "pages": [
+                {
+                    "id": 1087,
+                    "hasSpellingReading": true,
+                    "filePath": "https://api.qaidahnuraniah.com/page/resource/page-1739802225190.zip",
+                    "resourceFilePath": "https://api.qaidahnuraniah.com/page/resource/resource-1739802226589.html",
+                    "index": 23,
+                    "createdAt": "2021-08-30T20:38:01.000Z",
+                    "updatedAt": "2025-02-17T14:23:46.000Z",
+                    "availableReciters": [
+                        "Hafs",
+                        "Warsh",
+                        "Qanoun"
+                    ]
+                },
+                {
+                    "id": 1088,
+                    "hasSpellingReading": true,
+                    "filePath": "https://api.qaidahnuraniah.com/page/resource/page-1646639566219.zip",
+                    "resourceFilePath": "https://api.qaidahnuraniah.com/page/resource/resource-1646639569334.html",
+                    "index": 24,
+                    "createdAt": "2021-08-30T21:11:47.000Z",
+                    "updatedAt": "2022-03-07T07:52:49.000Z",
+                    "availableReciters": [
+                        "Hafs"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 134,
+            "name": "الدرس الرابع عشر",
+            "nameAr": "الدرس الرابع عشر",
+            "nameFr": "Leçon 14",
+            "nameEn": "Lesson 14",
+            "isPublished": true,
+            "index": 14,
+            "isFree": false,
+            "createdAt": "2021-06-10T08:53:23.000Z",
+            "updatedAt": "2022-04-05T19:10:40.000Z",
+            "pages": [
+                {
+                    "id": 1091,
+                    "hasSpellingReading": true,
+                    "filePath": "https://api.qaidahnuraniah.com/page/resource/page-1646738832703.zip",
+                    "resourceFilePath": "https://api.qaidahnuraniah.com/page/resource/resource-1646738835123.html",
+                    "index": 25,
+                    "createdAt": "2021-09-08T21:38:05.000Z",
+                    "updatedAt": "2022-03-08T11:27:15.000Z",
+                    "availableReciters": [
+                        "Hafs"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 135,
+            "name": "الدرس الخامس عشر",
+            "nameAr": "الدرس الخامس عشر",
+            "nameFr": "Leçon 15",
+            "nameEn": "Lesson 15",
+            "isPublished": true,
+            "index": 15,
+            "isFree": false,
+            "createdAt": "2021-06-10T08:53:40.000Z",
+            "updatedAt": "2022-04-05T19:10:46.000Z",
+            "pages": [
+                {
+                    "id": 1091,
+                    "hasSpellingReading": true,
+                    "filePath": "https://api.qaidahnuraniah.com/page/resource/page-1646738832703.zip",
+                    "resourceFilePath": "https://api.qaidahnuraniah.com/page/resource/resource-1646738835123.html",
+                    "index": 25,
+                    "createdAt": "2021-09-08T21:38:05.000Z",
+                    "updatedAt": "2022-03-08T11:27:15.000Z",
+                    "availableReciters": [
+                        "Hafs"
+                    ]
+                },
+                {
+                    "id": 1096,
+                    "hasSpellingReading": true,
+                    "filePath": "https://api.qaidahnuraniah.com/page/resource/page-1649113002404.zip",
+                    "resourceFilePath": "https://api.qaidahnuraniah.com/page/resource/resource-1649113005163.html",
+                    "index": 26,
+                    "createdAt": "2021-09-25T10:23:38.000Z",
+                    "updatedAt": "2022-04-04T22:56:45.000Z",
+                    "availableReciters": [
+                        "Hafs"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 136,
+            "name": "الدرس السادس عشر",
+            "nameAr": "الدرس السادس عشر",
+            "nameFr": "Leçon 16",
+            "nameEn": "Lesson 16",
+            "isPublished": true,
+            "index": 16,
+            "isFree": false,
+            "createdAt": "2021-06-10T08:55:11.000Z",
+            "updatedAt": "2022-04-05T19:10:53.000Z",
+            "pages": [
+                {
+                    "id": 1096,
+                    "hasSpellingReading": true,
+                    "filePath": "https://api.qaidahnuraniah.com/page/resource/page-1649113002404.zip",
+                    "resourceFilePath": "https://api.qaidahnuraniah.com/page/resource/resource-1649113005163.html",
+                    "index": 26,
+                    "createdAt": "2021-09-25T10:23:38.000Z",
+                    "updatedAt": "2022-04-04T22:56:45.000Z",
+                    "availableReciters": [
+                        "Hafs"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 137,
+            "name": "الدرس الأخير",
+            "nameAr": "الدرس الأخير",
+            "nameFr": "Dernière leçon",
+            "nameEn": "Last Lesson",
+            "isPublished": true,
+            "index": 17,
+            "isFree": false,
+            "createdAt": "2021-06-10T08:55:28.000Z",
+            "updatedAt": "2025-09-02T10:10:56.000Z",
+            "pages": [
+                {
+                    "id": 1096,
+                    "hasSpellingReading": true,
+                    "filePath": "https://api.qaidahnuraniah.com/page/resource/page-1649113002404.zip",
+                    "resourceFilePath": "https://api.qaidahnuraniah.com/page/resource/resource-1649113005163.html",
+                    "index": 26,
+                    "createdAt": "2021-09-25T10:23:38.000Z",
+                    "updatedAt": "2022-04-04T22:56:45.000Z",
+                    "availableReciters": [
+                        "Hafs"
+                    ]
+                },
+                {
+                    "id": 1105,
+                    "hasSpellingReading": true,
+                    "filePath": "https://api.qaidahnuraniah.com/page/resource/page-1649064524329.zip",
+                    "resourceFilePath": "https://api.qaidahnuraniah.com/page/resource/resource-1649064527561.html",
+                    "index": 27,
+                    "createdAt": "2021-10-25T07:06:42.000Z",
+                    "updatedAt": "2022-04-04T09:28:47.000Z",
+                    "availableReciters": [
+                        "Hafs"
+                    ]
+                },
+                {
+                    "id": 1098,
+                    "hasSpellingReading": true,
+                    "filePath": "https://api.qaidahnuraniah.com/page/resource/page-1647427696866.zip",
+                    "resourceFilePath": "https://api.qaidahnuraniah.com/page/resource/resource-1647427698420.html",
+                    "index": 28,
+                    "createdAt": "2021-09-26T07:47:00.000Z",
+                    "updatedAt": "2022-03-16T10:48:18.000Z",
+                    "availableReciters": [
+                        "Hafs"
+                    ]
+                }
+            ]
+        }
+    ]
+}
