@@ -37,5 +37,9 @@
   "Loading Page SVG...": "Memuat SVG Halaman...",
   "Extracting audio data...": "Mengekstrak data audio...",
   "Failed to load {file}": "Gagal memuat {file}",
-  "meta.json not found": "meta.json tidak ditemukan"
+  "meta.json not found": "meta.json tidak ditemukan",
+  "New Update Available!": "Update Baru Tersedia!",
+  "A new version of the app is ready. Update now to get the latest content and features.": "Versi baru aplikasi sudah siap. Perbarui sekarang untuk mendapatkan fitur terbaru.",
+  "Update & Clear Cache": "Update & Bersihkan Cache",
+  "Update Now": "Update Sekarang"
 }

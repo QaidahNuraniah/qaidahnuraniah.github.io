@@ -37,5 +37,9 @@
   "Loading Page SVG...": "Loading Page SVG...",
   "Extracting audio data...": "Extracting audio data...",
   "Failed to load {file}": "Failed to load {file}",
-  "meta.json not found": "meta.json not found"
+  "meta.json not found": "meta.json not found",
+  "New Update Available!": "New Update Available!",
+  "A new version of the app is ready. Update now to get the latest content and features.": "A new version of the app is ready. Update now to get the latest content and features.",
+  "Update & Clear Cache": "Update & Clear Cache",
+  "Update Now": "Update Now"
 }

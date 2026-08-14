@@ -14,6 +14,10 @@
  *   {DATA_BASE_URL}/data/projects.json
  *   {DATA_BASE_URL}/data/experience.json
  */
-window.__PORTFOLIO_CONFIG__ = {
+window.__QAIDAHNURANIAH_CONFIG__ = {
   DATA_BASE_URL: '',  /* Empty = use local files in public/data/ */
+  RESOURCE_BASE_URLS: [
+    'https://cdn.jsdelivr.net/gh/qaidahnuraniah/qaidahnuraniah.github.io@main/resources/',
+    'https://api.qaidahnuraniah.com/page/resource/',
+  ],
 }
